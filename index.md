@@ -1,13 +1,17 @@
 Hello!
 
-## Speed run rules, as defined by TOP voice chat audience.
+## Rules, as defined by TOP voice chat audience.
 
 - Projects got to be done with extra credit.
 - Notes need to be taken on lessons.  That's this log.
 
 ## 2022-06-24
 
+Summary: 2h spent.
+
 Starting Odin Project!
+
+- Starting at 10:20p.
 - Motivational first lessons along with setup.  More or less skipping those
   because I'm a bad student.
 - Question asking articles.  They look neat!
@@ -18,4 +22,13 @@ Starting Odin Project!
 - Basic GitHub usage.
 - Basic HTML/CSS.
 - Now onto Project Recipe!
-    - [Done](https://oogeima.github.io/odin-recipes/).
+    - [Done][recipes].
+- CSS lessons.
+    - Learned a new thing about [`box-sizing`][box-sizing].
+    - [`gap`][gap] is cool, too.
+- Got sort of wrecked on CSS Froggy.  Thanks, voice chat!
+- Next project - landing page.  Stopping for the night at 12:15a.
+
+[box-sizing]: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#the_alternative_css_box_model
+[gap]: https://developer.mozilla.org/en-US/docs/Web/CSS/gap
+[recipes]: https://oogeima.github.io/odin-recipes/
