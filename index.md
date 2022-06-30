@@ -1,13 +1,21 @@
 Hello!
 
+3h 40m spent
+
 ## Rules, as defined by TOP voice chat audience.
 
 - Projects got to be done with extra credit.
 - Notes need to be taken on lessons.  That's this log.
 
-## 2022-06-24
+## 2022-06-27
 
-Summary: 2h spent.
+- Started at 10:00p.
+- Finished landing page!
+- JS basics.
+- Rock, paper, scissors project done!
+- Ended at 11:40p.
+
+## 2022-06-24
 
 Starting Odin Project!
 
