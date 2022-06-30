@@ -1,6 +1,6 @@
 Hello!
 
-3h 40m spent
+3h 35m spent
 
 ## Rules, as defined by TOP voice chat audience.
 
