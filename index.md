@@ -1,11 +1,18 @@
 Hello!
 
-5h 55m spent
+7h 57m spent
 
 ## Rules, as defined by TOP voice chat audience.
 
 - Projects got to be done with extra credit.
 - Notes need to be taken on lessons.  That's this log.
+
+## 2022-07-01
+
+- Started at 10:07p.
+- Did [RPS UI][rps].
+- Did [Etch-a-Sketch][etch].
+- End at 12:09a.
 
 ## 2022-06-30
 
@@ -43,7 +50,10 @@ Starting Odin Project!
 - Got sort of wrecked on CSS Froggy.  Thanks, voice chat!
 - Next project - landing page.  Stopping for the night at 12:15a.
 
+
 [box-sizing]: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#the_alternative_css_box_model
+[etch]: https://github.com/oogeima/etch-a-sketch
 [exercise]: https://github.com/oogeima/javascript-exercises/tree/fundamentals-4
 [gap]: https://developer.mozilla.org/en-US/docs/Web/CSS/gap
 [recipes]: https://oogeima.github.io/odin-recipes/
+[rps]: https://github.com/oogeima/rock-paper-scissors
