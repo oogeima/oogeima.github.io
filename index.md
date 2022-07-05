@@ -1,11 +1,17 @@
 Hello!
 
-7h 57m spent
+10h 03m spent
 
 ## Rules, as defined by TOP voice chat audience.
 
 - Projects got to be done with extra credit.
 - Notes need to be taken on lessons.  That's this log.
+
+## 2022-07-04
+
+- Started at 9:53p.
+- Didn't finish calculator.
+- Finish at 12:29a.
 
 ## 2022-07-01
 
