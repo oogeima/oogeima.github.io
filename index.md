@@ -1,11 +1,18 @@
 Hello!
 
-10h 03m spent
+11h 23m spent
 
 ## Rules, as defined by TOP voice chat audience.
 
 - Projects got to be done with extra credit.
 - Notes need to be taken on lessons.  That's this log.
+
+## 2022-07-06
+
+- Started at 9:22p.
+- Finished the [calculator][]!
+- Finished Foundations!
+- Done at 10:42p.
 
 ## 2022-07-04
 
@@ -58,6 +65,7 @@ Starting Odin Project!
 
 
 [box-sizing]: https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model#the_alternative_css_box_model
+[calculator]: https://oogeima.github.io/calculator/
 [etch]: https://github.com/oogeima/etch-a-sketch
 [exercise]: https://github.com/oogeima/javascript-exercises/tree/fundamentals-4
 [gap]: https://developer.mozilla.org/en-US/docs/Web/CSS/gap
